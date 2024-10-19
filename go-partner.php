@@ -285,16 +285,16 @@
                             </div> -->
                             <div>
                                 <!-- <h5 class="mb-1">Address</h5> -->
-                                <p class="mb-0">Read GoFeast Services <a href="#">Terms and Conditions</a> and
+                                <p class="mb-0">Read GoFeast Services <a href="./terms">Terms and Conditions</a> and
                                     acknowledge you have read the <a
-                                        href="https://orders.gofeastservices.com/en/content/privacy-policy"
+                                        href="./privacy-policy"
                                         target="_blank">Privacy
                                         Policy</a></p>
                             </div>
 
                         </div>
                         <div>
-                            <a href="https://dashboard.gofeastservices.com/en/onboard/merchant-signup?marketplace_reference_id=4a04f36ecac107f35cfb41786d65dd6d&user=Stores"
+                            <a href="#"
                                 target="_blank" class="btn btn-primary mt-3 ">Sign Up Now</a>
                         </div>
                     </div>

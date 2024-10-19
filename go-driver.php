@@ -49,7 +49,7 @@
                                                 <h4>GoDriver Android App</h4>
                                                 <p class="mb-2">Download GoDriver Android App to get yourself registered
                                                 </p>
-                                                <a href="https://play.google.com/store/apps/details?id=com.gofeast.driverapp"
+                                                <a href="https://play.google.com/store/apps/details?id=com.gomeat.driverapp"
                                                     target="_blank"
                                                     class="btn btn-expand btn-soft-primary rounded-pill">
                                                     <i class="uil uil-download-alt"></i>
