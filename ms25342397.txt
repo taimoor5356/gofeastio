@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "gofeast.io",
+  "Id": "4aa2a037-08c4-42c8-a540-92f00d638e66"
+}
