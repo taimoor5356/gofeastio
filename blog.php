@@ -4,8 +4,8 @@
 <head>
     <?php include 'links.html'?>
     <meta name="description"
-        content="Stay updated with GoFeast's next steps, latest halal meat stores, GOMT token, food delivery in USA and diverse recipes">
-    <title>Food & Online Delivery | GoFeast Blog</title>
+        content="Stay updated with GoMeat's next steps, latest halal meat stores, GOMT token, food delivery in USA and diverse recipes">
+    <title>Food & Online Delivery | GoMeat Blog</title>
 </head>
 
 <body>
@@ -61,14 +61,14 @@
                                                 <h2 class="post-title h3 mt-1 mb-3">
                                                     <a href="https://gofeasttoken.medium.com/gofeast-annual-performance-report-2022-key-updates-42e229422a47"
                                                         target="_blank" class="link-dark" >
-                                                        GoFeast Annual Performance Report 2022 — Key Updates
+                                                        GoMeat Annual Performance Report 2022 — Key Updates
                                                     </a>
                                                 </h2>
                                             </div>
                                             <!-- /.post-header -->
                                             <div class="post-content">
-                                                <p>The GoFeast Management Team could not be prouder to present
-                                                our Annual Performance Report for 2022 to all of our GoFeast “Steakholders”.
+                                                <p>The GoMeat Management Team could not be prouder to present
+                                                our Annual Performance Report for 2022 to all of our GoMeat “Steakholders”.
                                                 <br>
                                                 Read the full version of this report here:
                                                 <a href="https://gofeast.io/pdf/Annual%20Performance%20Report_20221.pdf" target="_blank">Annual Report</a>
@@ -118,7 +118,7 @@
                                                 </div> -->
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
-                                                    <a class="link-dark" href="./gofeast-at-consensus22">GoFeast at Consensus2022 by CoinDesk 
+                                                    <a class="link-dark" href="./gofeast-at-consensus22">GoMeat at Consensus2022 by CoinDesk 
                                                     </a>
                                                 </h2>
                                             </div>
@@ -172,7 +172,7 @@
                                             </div>
                                             <!-- /.post-header -->
                                             <div class="post-content">
-                                                <p>GoFeast is proud to announce the debut listing of GOMT on BitMart....</p>
+                                                <p>GoMeat is proud to announce the debut listing of GOMT on BitMart....</p>
                                             </div>
                                             <!-- /.post-content -->
                                         </div>
@@ -213,13 +213,13 @@
                                                 </div> -->
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
-                                                    <a class="link-dark" href="./gofeast-quterly-update-q1-2022">GoFeast Quaterly Update Q1 2022
+                                                    <a class="link-dark" href="./gofeast-quterly-update-q1-2022">GoMeat Quaterly Update Q1 2022
                                                     </a>
                                                 </h2>
                                             </div>
                                             <!-- /.post-header -->
                                             <div class="post-content">
-                                                <p>With the closure of Q1 of 2022 our GoFeast journey is just getting into full steam....</p>
+                                                <p>With the closure of Q1 of 2022 our GoMeat journey is just getting into full steam....</p>
                                             </div>
                                             <!-- /.post-content -->
                                         </div>
@@ -264,7 +264,7 @@
                                                 </div> -->
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
-                                                    <a class="link-dark" href="./gofeast-a-platform-for-many">What Makes GoFeast A Community-Focused Business?
+                                                    <a class="link-dark" href="./gofeast-a-platform-for-many">What Makes GoMeat A Community-Focused Business?
                                                     </a>
                                                 </h2>
                                             </div>
@@ -308,7 +308,7 @@
                                                 </div> -->
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
-                                                    <a class="link-dark" href="./gofeast-halal-meat-delivery-services-during-COVID-19-restrictions">High Demand For GoFeast
+                                                    <a class="link-dark" href="./gofeast-halal-meat-delivery-services-during-COVID-19-restrictions">High Demand For GoMeat
                                                         Halal Meat
                                                         Delivery Services During COVID-19 Restrictions
                                                     </a>
@@ -316,7 +316,7 @@
                                             </div>
                                             <!-- /.post-header -->
                                             <div class="post-content">
-                                                <p>GoFeast delivery services are seeing sharp increases in month over
+                                                <p>GoMeat delivery services are seeing sharp increases in month over
                                                     month order volumes.</p>
                                             </div>
                                             <!-- /.post-content -->
@@ -356,14 +356,14 @@
                                                 </div> -->
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
-                                                    <a class="link-dark" href="./gofeast-maintains-halal-meat-free-delivery-COVID-19-Lockdown">GoFeast Maintains Free
+                                                    <a class="link-dark" href="./gofeast-maintains-halal-meat-free-delivery-COVID-19-Lockdown">GoMeat Maintains Free
                                                         Delivery Of Specialty Halal Meats Through The COVID-19 Lockdown.
                                                     </a>
                                                 </h2>
                                             </div>
                                             <!-- /.post-header -->
                                             <div class="post-content">
-                                                <p>GoFeast has developed a stellar reputation for maintaining a
+                                                <p>GoMeat has developed a stellar reputation for maintaining a
                                                     community-first strategy in their business model.
 
                                                 </p>
@@ -408,7 +408,7 @@
                                                 </div> -->
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
-                                                    <a class="link-dark" href="./gofeast-assures-customers-of-continuing-halal-meat-delivery">GoFeast Assures
+                                                    <a class="link-dark" href="./gofeast-assures-customers-of-continuing-halal-meat-delivery">GoMeat Assures
                                                         Consumers Of Continuing Halal Meat Delivery Services During The
                                                         COVID- 19 Lockdown Period.
                                                     </a>
@@ -417,7 +417,7 @@
                                             <!-- /.post-header -->
                                             <div class="post-content">
                                                 <p>While many organizations are having trouble with supply chains,
-                                                    GoFeast continues to reliably deliver halal meats to consumers.
+                                                    GoMeat continues to reliably deliver halal meats to consumers.
 
                                                 </p>
                                             </div>
@@ -470,7 +470,7 @@
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
                                                     <a href="https://gofeasttoken.medium.com/gofeast-2021-year-in-review-87300b4f2969"
-                                                        target="_blank" class="link-dark" href="./blog-post.html">GoFeast
+                                                        target="_blank" class="link-dark" href="./blog-post.html">GoMeat
                                                         2021 — Year in
                                                         Review
 
@@ -481,7 +481,7 @@
                                             <div class="post-content">
                                                 <p>GOMT Token (GOMT) was launched in June 2021 with the vision to
                                                     revolutionize the $1.7 trillion global (Halal + Kosher) market. With
-                                                    transparency and traceability as its primary goal, GoFeast set out to
+                                                    transparency and traceability as its primary goal, GoMeat set out to
                                                     empower the specialty meat industry.
                                                 </p>
                                             </div>
@@ -528,14 +528,14 @@
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
                                                     <a href="https://gofeasttoken.medium.com/gofeast-x-bitmart-listing-the-quarter-ahead-5e63202ac4ca"
-                                                        target="_blank" class="link-dark" href="./blog-post.html">GoFeast
+                                                        target="_blank" class="link-dark" href="./blog-post.html">GoMeat
                                                         x BitMart Listing & the Quarter Ahead
                                                     </a>
                                                 </h2>
                                             </div>
                                             <!-- /.post-header -->
                                             <div class="post-content">
-                                                <p>Since the conclusion of GoFeast ICO
+                                                <p>Since the conclusion of GoMeat ICO
                                                 </p>
                                             </div>
                                             <!-- /.post-content -->
@@ -584,7 +584,7 @@
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
                                                     <a href="https://gofeasttoken.medium.com/gofeast-news-letter-bd8a85763cdd"
-                                                        target="_blank" class="link-dark" href="./blog-post.html">GoFeast
+                                                        target="_blank" class="link-dark" href="./blog-post.html">GoMeat
                                                         just launched an amazing promotion for the Super Bowl week.
                                                     </a>
                                                 </h2>
@@ -643,14 +643,14 @@
                                                 <!-- /.post-category -->
                                                 <h2 class="post-title h3 mt-1 mb-3">
                                                     <a href="https://gofeasttoken.medium.com/gofeast-ico-a-summary-f56e3760d1f"
-                                                        target="_blank" class="link-dark" href="./blog-post.html">GoFeast
+                                                        target="_blank" class="link-dark" href="./blog-post.html">GoMeat
                                                         ICO — A summary
                                                     </a>
                                                 </h2>
                                             </div>
                                             <!-- /.post-header -->
                                             <div class="post-content">
-                                                <p>GoFeast is a first-of-its-kind business endeavor catering to the $1.7
+                                                <p>GoMeat is a first-of-its-kind business endeavor catering to the $1.7
                                                     trillion global (Halal+ Kosher) market
                                                 </p>
                                             </div>
@@ -695,7 +695,7 @@
                                                 <h2 class="post-title h3 mt-1 mb-3">
                                                     <a href="https://gofeasttoken.medium.com/ama-recap-gofeast-founders-78623279b456"
                                                         target="_blank" class="link-dark" href="./blog-post.html">AMA
-                                                        Recap: GoFeast Founders
+                                                        Recap: GoMeat Founders
                                                     </a>
                                                 </h2>
                                             </div>
