@@ -43,8 +43,8 @@
                                 class="btn btn-lg btn-yellow rounded me-2 mb-1 text-primary ">BitMart</a></span>
                         <span><a href="https://hydradex.org/" target="_blank"
                                 class="btn btn-lg btn-green rounded me-2 mb-1">Hydra Dex</a></span>
-                        <span><a href="https://gomeat.io/icopanel/login" target="_blank"
-                                class="btn btn-lg btn-aqua rounded mb-1">Login to Staking Panel</a></span>
+                        <!-- <span><a href="https://gomeat.io/icopanel/login" target="_blank"
+                                class="btn btn-lg btn-aqua rounded mb-1">Login to Staking Panel</a></span> -->
 
                         <br>
                         <div class="d-flex flex-row mb-2 mt-2 justify-content-lg-start">
