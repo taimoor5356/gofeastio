@@ -33,7 +33,7 @@ TOD -->
         
 
         <section class="wrapper"
-            style=" background:  url(./assets/img/photos/bg-half.png); background-size: 100% 100%; " data-cue="fadeIn" data-duration="1500">
+            style=" background:  url(./assets/img/photos/gofeast_images/bg-half.png); background-size: 100% 100%; " data-cue="fadeIn" data-duration="1500">
             <!-- <section class="wrapper bg-light"> -->
             <div class="container  pb-8 pb-md-8 pt-8 pt-md-8">
 
@@ -42,7 +42,7 @@ TOD -->
                 <div class="row d-flex justify-content-center  text-center">
                     <div class="row ">
                         <div class=" col-12  video-hide" data-cue="bounceIn" data-group="page-title-buttons" >
-                            <video width="80%" height="auto" src="./assets/img/photos/App.mp4" style="border-radius:42px" autoplay loop
+                            <video width="80%" height="auto" src="./assets/img/photos/gofeast_images/App.mp4" style="border-radius:42px" autoplay loop
                                 playsinline muted></video>
                         </div>
                     </div>
@@ -50,9 +50,9 @@ TOD -->
                     <div class="row ">
                         <div class="col-12 mt-3 p-3 video-hide" data-cues="slideInDown" data-group="order-btn"
                             data-delay="500"
-                            style=" background:  url(./assets/img/photos/bg-red.png); border-radius: 7px 7px 7px 7px; background-size: 100% 100%; ">
+                            style=" background:  url(./assets/img/photos/gofeast_images/bg-red.png); border-radius: 7px 7px 7px 7px; background-size: 100% 100%; ">
                             <div class="text-center">
-                                <img class="img-fluid rounded" src="./assets/img/photos/left-top.png" alt="" width="200"
+                                <img class="img-fluid rounded" src="./assets/img/photos/gofeast_images/left-top.png" alt="" width="200"
                                     height="auto" >
                             </div>
                             <h1 class="text-center mt-5 text-white" data-cues="slideInDown">Digitalizing The
@@ -71,9 +71,9 @@ TOD -->
                     <div class="row ">
                         <div class="col-12  p-3 video-hide" data-cues="slideInDown" data-group="order-btn"
                             data-delay="500"
-                            style=" background: url(./assets/img/photos/bg-orange.png); border-radius: 7px 7px 7px 7px; background-size: 100% 100%; ">
+                            style=" background: url(./assets/img/photos/gofeast_images/bg-orange.png); border-radius: 7px 7px 7px 7px; background-size: 100% 100%; ">
                             <div class="text-center">
-                                <img class="img-fluid rounded" src="./assets/img/photos/GOMT Icon.png" alt=""
+                                <img class="img-fluid rounded" src="./assets/img/photos/gofeast_images/GOMT Icon.png" alt=""
                                     width="200" height="auto" >
                             </div>
                             <h2 class="text-center mt-5 text-white" data-cues="slideInDown">Empowering The Specialty
@@ -98,7 +98,7 @@ TOD -->
                     <div class="row d-flex justify-content-center">
                         <div class="col-4 mt-12 pt-10" data-cues="slideInDown" data-group="order-btn">
                             <div class="text-center">
-                                <img class="img-fluid rounded" src="./assets/img/photos/left-top.png" alt="" width="200"
+                                <img class="img-fluid rounded" src="./assets/img/photos/gofeast_images/left-top.png" alt="" width="200"
                                     height="auto" >
                             </div>
                             <h1 class="text-center mt-5 text-white" data-cues="slideInDown">
@@ -116,14 +116,14 @@ TOD -->
                         <div class="col-4 col-lg-3 col-md-4 " data-cue="bounceIn" data-duration="2000">
                             <!-- <div> -->
                             <video  width="100%" height="auto"
-                                src="./assets/img/photos/App.mp4" style="border-radius:48px;" autoplay loop playsinline muted></video>
+                                src="./assets/img/photos/gofeast_images/App.mp4" style="border-radius:48px;" autoplay loop playsinline muted></video>
                             <!-- </div> -->
                         </div>
 
                         <!-- /column -->
                         <div class=" col-4 mt-12 pt-10" data-cues="slideInDown" data-group="order-btn" data-delay="500">
                             <div class="text-center">
-                                <img class="img-fluid rounded" src="./assets/img/photos/GOMT Icon.png" alt=""
+                                <img class="img-fluid rounded" src="./assets/img/photos/gofeast_images/GOMT-Icon.png" alt=""
                                     width="200" height="auto" >
                             </div>
                             <h2 class="text-center mt-5 text-white" data-cues="slideInDown">
@@ -166,7 +166,7 @@ TOD -->
                 <div class="row gx-md-8 gy-8 text-center ">
                     <div class="col-md-6 col-lg-3">
                         <div class="mb-5">
-                            <img src="./assets/img/photos/store.png" width="120" height="120" loading="lazy" alt="" >
+                            <img src="./assets/img/photos/gofeast_images/store.png" width="120" height="120" loading="lazy" alt="" >
                         </div>
 
                         <h4>GoPartner</h4>
@@ -178,7 +178,7 @@ TOD -->
                     <div class="col-md-6 col-lg-3">
 
                         <div class="mb-5">
-                            <img src="./assets/img/photos/noimage.png" width="120" height="120" loading="lazy" class="" alt="" >
+                            <img src="./assets/img/photos/gofeast_images/driver.png" width="120" height="120" loading="lazy" class="" alt="" >
                         </div>
                         <h4>GoDriver</h4>
                         <p class="mb-3">Deliver when you want and where you want, earn the highest payout in the
@@ -188,7 +188,7 @@ TOD -->
                     <!--/column -->
                     <div class="col-md-6 col-lg-3">
                         <div class="mb-5">
-                            <img src="./assets/img/photos/app.png" width="120" height="120" loading="lazy" class="" alt="" >
+                            <img src="./assets/img/photos/gofeast_images/app.png" width="120" height="120" loading="lazy" class="" alt="" >
                         </div>
                         <h4>Ordering App</h4>
                         <p class="mb-2">Enjoy exclusive discounts and same-day delivery from your favorite local
@@ -206,7 +206,7 @@ TOD -->
                     <!--/column -->
                     <div class="col-md-6 col-lg-3">
                         <div class="mb-5">
-                            <img src="./assets/img/photos/gomt.png" width="120" height="120" loading="lazy" class="" alt="" >
+                            <img src="./assets/img/photos/gofeast_images/gomt.png" width="120" height="120" loading="lazy" class="" alt="" >
                         </div>
                         <h4>GOMT Token</h4>
                         <p class="mb-3">Utility token backed by a real use-case, with a limited supply and excellent
@@ -291,7 +291,7 @@ TOD -->
                                                 impeccable and always responsive to calls and queries. Great service 5
                                                 stars all around.”</p>
                                             <div class="blockquote-details">
-                                                <img class="rounded-circle w-12" src="./assets/img/photos/tcustomer.png"
+                                                <img class="rounded-circle w-12" src="./assets/img/photos/gofeast_images/tcustomer.png"
                                                     alt="" loading="lazy">
                                                 <div class="info">
                                                     <h5 class="mb-1">Mubashir Mitra</h5>
@@ -320,7 +320,7 @@ TOD -->
                                                 they keep doing a good job and expand more!! ”</p>
                                             <div class="blockquote-details">
                                                 <img class="rounded-circle w-12"
-                                                    src="./assets/img/photos/testimonial-female.png" alt="" loading="lazy">
+                                                    src="./assets/img/photos/gofeast_images/testimonial-female.png" alt="" loading="lazy">
                                                 <div class="info">
                                                     <h5 class="mb-1">Mollie </h5>
                                                     <!-- <p class="mb-0">Love the app </p> -->
@@ -347,7 +347,7 @@ TOD -->
                                                 problems with the best solution ”</p>
                                             <div class="blockquote-details">
                                                 <img class="rounded-circle w-12"
-                                                    src="./assets/img/photos/testimonial-driver.png" alt="" loading="lazy">
+                                                    src="./assets/img/photos/gofeast_images/testimonial-driver.png" alt="" loading="lazy">
                                                 <div class="info">
                                                     <h5 class="mb-1">Hussain Tarik </h5>
                                                     <p class="mb-0">GoDriver</p>
@@ -374,7 +374,7 @@ TOD -->
                                                 again.”</p>
                                             <div class="blockquote-details">
                                                 <img class="rounded-circle w-12"
-                                                    src="./assets/img/photos/testimonial-female.png" alt="" loading="lazy">
+                                                    src="./assets/img/photos/gofeast_images/testimonial-female.png" alt="" loading="lazy">
                                                 <div class="info">
                                                     <h5 class="mb-1">Maria Johar </h5>
                                                     <!-- <p class="mb-0">Happy with the delivery </p> -->
@@ -404,7 +404,7 @@ TOD -->
                                                 remain updated with the orders etc ”</p>
                                             <div class="blockquote-details">
                                                 <img class="rounded-circle w-12"
-                                                    src="./assets/img/photos/testimonials-partner.png" alt="" loading="lazy">
+                                                    src="./assets/img/photos/gofeast_images/testimonials-partner.png" alt="" loading="lazy">
                                                 <div class="info">
                                                     <h5 class="mb-1">Sneha Chandane </h5>
                                                     <!-- <p class="mb-0">Happy with the delivery </p> -->
@@ -433,7 +433,7 @@ TOD -->
                                                 Great idea for creating such convince for us!!! ”</p>
                                             <div class="blockquote-details">
                                                 <img class="rounded-circle w-12"
-                                                    src="./assets/img/photos/testimonial-female.png" alt="" loading="lazy">
+                                                    src="./assets/img/photos/gofeast_images/testimonial-female.png" alt="" loading="lazy">
                                                 <div class="info">
                                                     <h5 class="mb-1">Maryam Khan </h5>
                                                     <!-- <p class="mb-0">Great experience </p> -->
@@ -459,7 +459,7 @@ TOD -->
                                             <p style="text-align: justify;">“Reliable and this is what was needed and fast delivery cheap rates and
                                                 most importantly fresh meat ”</p>
                                             <div class="blockquote-details">
-                                                <img class="rounded-circle w-12" src="./assets/img/photos/tcustomer.png"
+                                                <img class="rounded-circle w-12" src="./assets/img/photos/gofeast_images/tcustomer.png"
                                                     alt="" loading="lazy">
                                                 <div class="info">
                                                     <h5 class="mb-1">
@@ -489,7 +489,7 @@ TOD -->
                                                 expanding to new areas every day ”</p>
                                             <div class="blockquote-details">
                                                 <img class="rounded-circle w-12"
-                                                    src="./assets/img/photos/testimonials-partner.png" alt="" loading="lazy">
+                                                    src="./assets/img/photos/gofeast_images/testimonials-partner.png" alt="" loading="lazy">
                                                 <div class="info">
                                                     <h5 class="mb-1">
                                                         Ali Ibrar </h5>
@@ -516,7 +516,7 @@ TOD -->
 
 
         <!-- /section -->
-        <section class="wrapper image-wrapper bg-image bg-overlay" data-image-src="./assets/img/photos/bg.jpg">
+        <section class="wrapper image-wrapper bg-image bg-overlay" data-image-src="./assets/img/photos/gofeast_images/bg.jpg">
             <div class="container py-15 ">
                 <div class="row text-center">
                     <div class="col-lg-11 col-xl-10 col-xxl-8 mx-auto">
@@ -550,12 +550,12 @@ TOD -->
                     <h3 class="display-4 mb-7 mt-lg-10 text-primary">Order from GoFeast!</h3>
                     <div class="col-lg-6 text-center">
                         <figure>
-                            <img src="./assets/img/photos/gofeastfeatures1.png" width="90%" height="80%" alt="" loading="lazy">
+                            <img src="./assets/img/photos/gofeast_images/gofeastfeatures1.png" width="90%" height="80%" alt="" loading="lazy">
                         </figure>
                     </div>
                     <div class="col-lg-6 text-center">
                         <figure>
-                            <img src="./assets/img/photos/gofeastfeatures2.png" width="90%" height="80%" alt="" loading="lazy">
+                            <img src="./assets/img/photos/gofeast_images/gofeastfeatures2.png" width="90%" height="80%" alt="" loading="lazy">
                         </figure>
                     </div>
                     <div class="d-flex justify-content-center mt-5">
@@ -575,7 +575,7 @@ TOD -->
                 <div class="row gx-lg-8 gx-xl-10 align-items-center">
                     <div class="col-lg-6 text-center" data-cues="bounceIn" data-duration="2000">
 
-                        <img src="./assets/img/photos/app2.png" width="90%" height="80%" alt="" />
+                        <img src="./assets/img/photos/gofeast_images/app2.png" width="90%" height="80%" alt="" />
 
                     </div>
 
@@ -631,7 +631,7 @@ TOD -->
                 <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center d-flex justify-content-center">
                     <div class="col-lg-6 order-lg-2 text-center" data-cues="bounceIn" data-duration="2000">
                         <!-- <figure> -->
-                        <img src="./assets/img/photos/gomtbuy.png" width="100%" height="auto" alt="" loading="lazy">
+                        <img src="./assets/img/photos/gofeast_images/gomtbuy.png" width="100%" height="auto" alt="" loading="lazy">
                         <!-- </figure> -->
                     </div>
                     <!--/column -->
@@ -756,7 +756,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://news.bitcoin.com/gofeast-token-empowering-local-specialty-stores-using-blockchain/"
                                     target="_blank">
-                                    <img src="./assets/img/photos/mm-bitcoin.jpg"
+                                    <img src="./assets/img/photos/gofeast_images/mm-bitcoin.jpg"
                                         alt="" loading="lazy">
                                 </a>
                                 <figcaption>
@@ -768,7 +768,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://news.bitcoin.com/gofeast-token-empowering-local-specialty-stores-using-blockchain/"
                                             target="_blank">
-                                            <img src="./assets/img/photos/bitcoin-logo.png" alt="" loading="lazy">
+                                            <img src="./assets/img/photos/gofeast_images/bitcoin-logo.png" alt="" loading="lazy">
                                         </a>
                                     </figure>
                                 </div>
@@ -801,7 +801,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
                                     target="_blank">
-                                    <img src="./assets/img/photos/hydradex.jpg" alt="" loading="lazy">
+                                    <img src="./assets/img/photos/gofeast_images/hydradex.jpg" alt="" loading="lazy">
                                 </a>
                                 <figcaption>
                                     <h5 class="from-top mb-0">Read More</h5>
@@ -812,7 +812,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://finance.yahoo.com/news/gofeast-token-lists-hydra-dex-133800677.html?guccounter=1"
                                             target="_blank">
-                                            <img src="./assets/img/photos/yahoo-logo.png"
+                                            <img src="./assets/img/photos/gofeast_images/yahoo-logo.png"
                                                 alt="" loading="lazy">
                                         </a>
                                     </figure>
@@ -846,7 +846,7 @@ TOD -->
                         <article>
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://blockonomi.com/gofeast-a-necessity-in-modern-times/" target="_blank">
-                                    <img src="./assets/img/photos/mm-blockonomi.jpeg"
+                                    <img src="./assets/img/photos/gofeast_images/mm-blockonomi.jpeg"
                                         alt="" loading="lazy">
                                 </a>
                                 <figcaption>
@@ -858,7 +858,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://blockonomi.com/gofeast-a-necessity-in-modern-times/"
                                             target="_blank">
-                                            <img src="./assets/img/photos/blocknomi-logo.png"
+                                            <img src="./assets/img/photos/gofeast_images/blocknomi-logo.png"
                                                 alt="" loading="lazy">
                                         </a>
                                     </figure>
@@ -893,7 +893,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://www.startuptofollow.com/article/gofeast-specialty-meat-from-the-store-to-your-door"
                                     target="_blank">
-                                    <img src="./assets/img/photos/mm-bucket.jpg"
+                                    <img src="./assets/img/photos/gofeast_images/mm-bucket.jpg"
                                         alt="" loading="lazy">
                                 </a>
                                 <figcaption>
@@ -905,7 +905,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://www.startuptofollow.com/article/gofeast-specialty-meat-from-the-store-to-your-door"
                                             target="_blank">
-                                            <img src="./assets/img/photos/startuptofollow.png" alt="" loading="lazy">
+                                            <img src="./assets/img/photos/gofeast_images/startuptofollow.png" alt="" loading="lazy">
                                         </a>
                                     </figure>
                                 </div>
@@ -939,7 +939,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://www.cryptodaily.co.uk/2021/09/GoFeast-The-revolutionary-platform-that-will-change-the-meat-industry"
                                     target="_blank">
-                                    <img src="./assets/img/photos/mm-ico-banner-conzilla.jpg"
+                                    <img src="./assets/img/photos/gofeast_images/mm-ico-banner-conzilla.jpg"
                                         alt="" loading="lazy">
                                 </a>
                                 <figcaption>
@@ -951,7 +951,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-10">
                                         <a href="https://www.cryptodaily.co.uk/2021/09/GoFeast-The-revolutionary-platform-that-will-change-the-meat-industry"
                                             target="_blank">
-                                            <img src="./assets/img/photos/cd-shield-logo.png"
+                                            <img src="./assets/img/photos/gofeast_images/cd-shield-logo.png"
                                                 alt="" loading="lazy">
                                         </a>
                                     </figure>
@@ -986,7 +986,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://btcmanager.com/cryptocurrencies-are-making-breakthroughs-into-the-food-industry/"
                                     target="_blank">
-                                    <img src="./assets/img/photos/mm-bucket.jpg"
+                                    <img src="./assets/img/photos/gofeast_images/mm-bucket.jpg"
                                         alt="" loading="lazy">
                                 </a>
                                 <figcaption>
@@ -998,7 +998,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://btcmanager.com/cryptocurrencies-are-making-breakthroughs-into-the-food-industry/"
                                             target="_blank">
-                                            <img src="./assets/img/photos/crypto-news-logo.png"
+                                            <img src="./assets/img/photos/gofeast_images/crypto-news-logo.png"
                                                 alt="" loading="lazy">
                                         </a>
                                     </figure>
@@ -1031,7 +1031,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://www.businessheraldonline.com/article/552257996-gofeast-token-launches-affiliate-program-and-ico-tier-2"
                                     target="_blank">
-                                    <img src="./assets/img/photos/mm-bsdl.jpg" alt="" loading="lazy">
+                                    <img src="./assets/img/photos/gofeast_images/mm-bsdl.jpg" alt="" loading="lazy">
                                 </a>
                                 <figcaption>
                                     <h5 class="from-top mb-0">Read More</h5>
@@ -1042,7 +1042,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://www.businessheraldonline.com/article/552257996-gofeast-token-launches-affiliate-program-and-ico-tier-2"
                                             target="_blank">
-                                            <img src="./assets/img/photos/bsns.png" alt="" loading="lazy">
+                                            <img src="./assets/img/photos/gofeast_images/bsns.png" alt="" loading="lazy">
                                         </a>
                                     </figure>
                                 </div>
@@ -1076,7 +1076,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://investornytt.no/gofeast-ett-ledande-logistikforetag-for-mattransport-ock-kvalitetssakring/"
                                     target="_blank">
-                                    <img src="./assets/img/photos/mm-investornytt.webp"
+                                    <img src="./assets/img/photos/gofeast_images/mm-investornytt.webp"
                                         alt="" loading="lazy">
                                 </a>
                                 <figcaption>
@@ -1088,7 +1088,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://investornytt.no/gofeast-ett-ledande-logistikforetag-for-mattransport-ock-kvalitetssakring/"
                                             target="_blank">
-                                            <img src="./assets/img/photos/investornytt-logo.webp"
+                                            <img src="./assets/img/photos/gofeast_images/investornytt-logo.webp"
                                                 alt="" loading="lazy">
                                         </a>
                                     </figure>
@@ -1121,7 +1121,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://www.newsbtc.com/press-releases/gofeast-launches-affiliate-program-and-ico-tier-2/"
                                     target="_blank">
-                                    <img src="./assets/img/photos/mm-newsbtc.png" alt="" loading="lazy">
+                                    <img src="./assets/img/photos/gofeast_images/mm-newsbtc.png" alt="" loading="lazy">
                                 </a>
                                 <figcaption>
                                     <h5 class="from-top mb-0">Read More</h5>
@@ -1132,7 +1132,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://www.newsbtc.com/press-releases/gofeast-launches-affiliate-program-and-ico-tier-2/"
                                             target="_blank">
-                                            <img src="./assets/img/photos/news-btc-logo.png"
+                                            <img src="./assets/img/photos/gofeast_images/news-btc-logo.png"
                                                 alt="" loading="lazy">
                                         </a>
                                     </figure>
@@ -1165,7 +1165,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://seekingalpha.com/pr/18650942-gofeast-token-lists-on-hydra-dex-after-sold-out-ico"
                                     target="_blank">
-                                    <img src="./assets/img/photos/hydradex.jpg" alt="" loading="lazy">
+                                    <img src="./assets/img/photos/gofeast_images/hydradex.jpg" alt="" loading="lazy">
                                 </a>
                                 <figcaption>
                                     <h5 class="from-top mb-0">Read More</h5>
@@ -1176,7 +1176,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://seekingalpha.com/pr/18650942-gofeast-token-lists-on-hydra-dex-after-sold-out-ico"
                                             target="_blank">
-                                            <img src="./assets/img/photos/seeking.png" alt="" loading="lazy">
+                                            <img src="./assets/img/photos/gofeast_images/seeking.png" alt="" loading="lazy">
                                         </a>
                                     </figure>
                                 </div>
@@ -1209,7 +1209,7 @@ TOD -->
                             <figure class="overlay overlay-1 hover-scale rounded mb-5">
                                 <a href="https://www.finanzen.net/nachricht/aktien/gofeast-token-lists-on-hydra-dex-after-a-sold-out-ico-10981062 "
                                     target="_blank">
-                                    <img src="./assets/img/photos/hydradex.jpg" alt="" loading="lazy">
+                                    <img src="./assets/img/photos/gofeast_images/hydradex.jpg" alt="" loading="lazy">
                                 </a>
                                 <figcaption>
                                     <h5 class="from-top mb-0">Read More</h5>
@@ -1220,7 +1220,7 @@ TOD -->
                                     <figure class="rounded mb-2 w-20">
                                         <a href="https://www.finanzen.net/nachricht/aktien/gofeast-token-lists-on-hydra-dex-after-a-sold-out-ico-10981062 "
                                             target="_blank">
-                                            <img src="./assets/img/photos/finanzen.png" alt="" loading="lazy">
+                                            <img src="./assets/img/photos/gofeast_images/finanzen.png" alt="" loading="lazy">
                                         </a>
                                     </figure>
                                 </div>
@@ -1264,13 +1264,13 @@ TOD -->
                 <div class="carousel owl-carousel clients mb-0" data-margin="30" data-loop="true" data-dots="false"
                     data-autoplay="true" data-autoplay-timeout="3000"
                     data-responsive='{"0":{"items": "2"}, "768":{"items": "4"}, "992":{"items": "5"}, "1200":{"items": "6"}, "1400":{"items": "7"}}'>
-                    <div class="item px-5"><img src="./assets/img/photos/Bereket.png" alt="" loading="lazy"></div>
-                    <div class="item px-5"><img src="./assets/img/photos/Shalimar.png" alt="" loading="lazy"></div>
-                    <div class="item px-5"><img src="./assets/img/photos/Haveli.png" alt="" loading="lazy"></div>
-                    <div class="item px-5"><img src="./assets/img/photos/Lasani.png" alt="" loading="lazy"></div>
-                    <div class="item px-5"><img src="./assets/img/photos/Minar.png" alt="" loading="lazy"></div>
-                    <div class="item px-5"><img src="./assets/img/photos/Punjab.png" alt="" loading="lazy"></div>
-                    <div class="item px-5"><img src="./assets/img/photos/Makki Mart.png" alt="" loading="lazy"></div>
+                    <div class="item px-5"><img src="./assets/img/photos/gofeast_images/Bereket.png" alt="" loading="lazy"></div>
+                    <div class="item px-5"><img src="./assets/img/photos/gofeast_images/Shalimar.png" alt="" loading="lazy"></div>
+                    <div class="item px-5"><img src="./assets/img/photos/gofeast_images/Haveli.png" alt="" loading="lazy"></div>
+                    <div class="item px-5"><img src="./assets/img/photos/gofeast_images/Lasani.png" alt="" loading="lazy"></div>
+                    <div class="item px-5"><img src="./assets/img/photos/gofeast_images/Minar.png" alt="" loading="lazy"></div>
+                    <div class="item px-5"><img src="./assets/img/photos/gofeast_images/Punjab.png" alt="" loading="lazy"></div>
+                    <div class="item px-5"><img src="./assets/img/photos/gofeast_images/Makki Mart.png" alt="" loading="lazy"></div>
                 </div>
                 <!-- /.owl-carousel -->
             </div>

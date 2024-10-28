@@ -36,7 +36,7 @@
                             style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox>
                             <i class="icn-caret-right"></i>
                         </a>
-                        <figure class="rounded"><img src="./assets/img/photos/gomt-proposition-2.jpg" alt=""></figure>
+                        <figure class="rounded"><img src="./assets/img/photos/gofeast_images/gomt-proposition.jpg" alt=""></figure>
 
 
                     </div>
@@ -82,7 +82,7 @@
                 <div class="row gx-lg-8 gx-xl-12 gy-10 mb-10 mb-md-10 align-items-center">
                     <div class="col-lg-5 text-center">
                         <!-- <figure> -->
-                        <img width="60%" height="auto" src="./assets/img/photos/our-mission.png" alt="" />
+                        <img width="60%" height="auto" src="./assets/img/photos/gofeast_images/our-mission.png" alt="" />
                         <!-- </figure> -->
                     </div>
                     <!--/column -->
@@ -110,7 +110,7 @@
 
                     <div class="col-lg-5 text-center">
                         <!-- <figure> -->
-                        <img width="90%" height="auto" src="./assets/img/photos/vision.png" alt="" />
+                        <img width="90%" height="auto" src="./assets/img/photos/gofeast_images/vision.png" alt="" />
                         <!-- </figure> -->
                     </div>
                 </div>
@@ -119,7 +119,7 @@
                 <div class="row gx-lg-8 gx-xl-12 gy-10 mb-10 mb-md-10 align-items-center">
                     <div class="col-lg-5 text-center">
                         <!-- <figure> -->
-                        <img width="90%" height="auto" src="./assets/img/photos/business.png" alt="" />
+                        <img width="90%" height="auto" src="./assets/img/photos/gofeast_images/business.png" alt="" />
                         <!-- </figure> -->
                     </div>
                     <!--/column -->
@@ -161,7 +161,7 @@
         <!--    <div class="container py-10 py-md-10">-->
         <!--        <div class="row gx-lg-8 gx-xl-12 gy-10 mt-10  align-items-center">-->
         <!--            <div class="col-lg-6 text-center">-->
-        <!--                <img width="90%" height="auto" src="./assets/img/photos/waqas.png" alt="" />-->
+        <!--                <img width="90%" height="auto" src="./assets/img/photos/gofeast_images/waqas.png" alt="" />-->
         <!--            </div>-->
         <!--            <div class="col-lg-6">-->
         <!--                <h2 class="fs-15 text-uppercase text-primary">CO-FOUNDER & CEO</h2>-->
@@ -202,7 +202,7 @@
         <!--                    </div>-->
         <!--                    <div class="card">-->
         <!--                        <div class="card-body">-->
-        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/hamed.png" alt="" />-->
+        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/gofeast_images/hamed.png" alt="" />-->
         <!--                            <h4 class="mb-1">Syed Hamed Ullah Quadri</h4>-->
         <!--                            <div class="meta mb-2">-->
         <!--                                Co-Founder & Secretary-->
@@ -225,7 +225,7 @@
         <!--                                                <div class="row">-->
         <!--                                                    <div class="col-md-10 offset-md-1">-->
         <!--                                                        <figure class="mb-6">-->
-        <!--                                                            <img src="./assets/img/photos/hamed.png" alt="" />-->
+        <!--                                                            <img src="./assets/img/photos/gofeast_images/hamed.png" alt="" />-->
         <!--                                                        </figure>-->
         <!--                                                    </div>-->
         <!--                                                </div>-->
@@ -267,7 +267,7 @@
         <!--                    </div>-->
         <!--                    <div class="card">-->
         <!--                        <div class="card-body">-->
-        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/ibrahim.png"-->
+        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/gofeast_images/ibrahim.png"-->
         <!--                                alt="" />-->
         <!--                            <h4 class="mb-1">Ibrahim Quadri</h4>-->
 
@@ -292,7 +292,7 @@
         <!--                                                <div class="row">-->
         <!--                                                    <div class="col-md-10 offset-md-1">-->
         <!--                                                        <figure class="mb-6">-->
-        <!--                                                            <img src="./assets/img/photos/ibrahim.png" alt="" />-->
+        <!--                                                            <img src="./assets/img/photos/gofeast_images/ibrahim.png" alt="" />-->
         <!--                                                        </figure>-->
         <!--                                                    </div>-->
         <!--                                                </div>-->
@@ -327,7 +327,7 @@
         <!--                    </div>-->
         <!--                    <div class="card">-->
         <!--                        <div class="card-body">-->
-        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/ehsan.png" alt="" />-->
+        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/gofeast_images/ehsan.png" alt="" />-->
         <!--                            <h4 class="mb-1">Ehsan Muhammad-->
         <!--                            </h4>-->
         <!--                            <div class="meta mb-2">Co-Founder</div>-->
@@ -351,7 +351,7 @@
         <!--                                                <div class="row">-->
         <!--                                                    <div class="col-md-10 offset-md-1">-->
         <!--                                                        <figure class="mb-6">-->
-        <!--                                                            <img src="./assets/img/photos/ehsan.png" alt="" />-->
+        <!--                                                            <img src="./assets/img/photos/gofeast_images/ehsan.png" alt="" />-->
         <!--                                                        </figure>-->
         <!--                                                    </div>-->
         <!--                                                </div>-->
@@ -387,7 +387,7 @@
         <!--                    </div>-->
         <!--                    <div class="card">-->
         <!--                        <div class="card-body">-->
-        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/asim.png" alt="" />-->
+        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/gofeast_images/asim.png" alt="" />-->
         <!--                            <h4 class="mb-1">Asim Qureshi-->
         <!--                            </h4>-->
         <!--                            <div class="meta mb-2">Co-Founder</div>-->
@@ -411,7 +411,7 @@
         <!--                                                <div class="row">-->
         <!--                                                    <div class="col-md-10 offset-md-1">-->
         <!--                                                        <figure class="mb-6">-->
-        <!--                                                            <img src="./assets/img/photos/asim.png" alt="" />-->
+        <!--                                                            <img src="./assets/img/photos/gofeast_images/asim.png" alt="" />-->
         <!--                                                        </figure>-->
         <!--                                                    </div>-->
         <!--                                                </div>-->
@@ -464,7 +464,7 @@
         <!--                    </div>-->
         <!--                    <div class="card">-->
         <!--                        <div class="card-body">-->
-        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/angel.png" alt="" />-->
+        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/gofeast_images/angel.png" alt="" />-->
         <!--                            <h4 class="mb-1">Angel Buzalov</h4>-->
         <!--                            <div class="meta mb-2">-->
         <!--                                Attorney At Law at Buzalov & Chanova Law Office-->
@@ -483,7 +483,7 @@
         <!--                    </div>-->
         <!--                    <div class="card">-->
         <!--                        <div class="card-body">-->
-        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/florian.png"-->
+        <!--                            <img class="rounded-circle w-15 mb-4" src="./assets/img/photos/gofeast_images/florian.png"-->
         <!--                                alt="" />-->
         <!--                            <h4 class="mb-1">Florian Pfeiffer</h4>-->
 
@@ -518,7 +518,7 @@
         <!--                    data-autoplay="true" data-autoplay-timeout="5000" data-loop="true"-->
         <!--                    data-responsive='{"0":{"items": "1"}, "768":{"items": "2"}, "992":{"items": "3"}, "1200":{"items": "4"}, "1400":{"items": "4"}}'>-->
         <!--                    <div class="item">-->
-        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/huzaifa.png"-->
+        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/gofeast_images/huzaifa.png"-->
         <!--                            alt=""/>-->
         <!--                        <h4 class="mb-1">Huzaifa Bajwa</h4>-->
         <!--                        <div class="meta mb-2">Tech Lead</div>-->
@@ -527,7 +527,7 @@
         <!--                        </nav>-->
         <!--                    </div>-->
         <!--                    <div class="item">-->
-        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/noor.png"-->
+        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/gofeast_images/noor.png"-->
         <!--                            alt="" />-->
         <!--                        <h4 class="mb-1">Noor Ul Ain</h4>-->
         <!--                        <div class="meta mb-2">Marketing Lead</div>-->
@@ -537,7 +537,7 @@
         <!--                        </nav>-->
         <!--                    </div>-->
         <!--                    <div class="item">-->
-        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/zakir.png"-->
+        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/gofeast_images/zakir.png"-->
         <!--                            alt="" />-->
         <!--                        <h4 class="mb-1">Zakir Hussain Somji</h4>-->
         <!--                        <div class="meta mb-2">Store Onboarding Lead</div>-->
@@ -546,7 +546,7 @@
         <!--                        </nav>-->
         <!--                    </div>-->
         <!--                    <div class="item">-->
-        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/saif.png"-->
+        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/gofeast_images/saif.png"-->
         <!--                            alt="" />-->
         <!--                        <h4 class="mb-1">Saif Ullah Khalid</h4>-->
         <!--                        <div class="meta mb-2">Graphics & Design Lead</div>-->
@@ -556,7 +556,7 @@
         <!--                    </div>-->
 
         <!--                    <div class="item">-->
-        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/fajer.png"-->
+        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/gofeast_images/fajer.png"-->
         <!--                            alt=""/>-->
         <!--                        <h4 class="mb-1">Fajer Mahmood</h4>-->
         <!--                        <div class="meta mb-2">CS Lead</div>-->
@@ -565,7 +565,7 @@
         <!--                        </nav>-->
         <!--                    </div>-->
         <!--                    <div class="item">-->
-        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/nouman.png"-->
+        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/gofeast_images/nouman.png"-->
         <!--                            alt="" />-->
         <!--                        <h4 class="mb-1">Nauman Ali</h4>-->
         <!--                        <div class="meta mb-2">Finance Lead</div>-->
@@ -574,7 +574,7 @@
         <!--                        </nav>-->
         <!--                    </div>-->
         <!--                    <div class="item">-->
-        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/rahat.png"-->
+        <!--                        <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/photos/gofeast_images/rahat.png"-->
         <!--                            alt="" />-->
         <!--                        <h4 class="mb-1">Rahat Ul Ain</h4>-->
         <!--                        <div class="meta mb-2">Public Relations Lead</div>-->
@@ -610,7 +610,7 @@ function myMap() {
 
   const iconBase =
     "https://gofeast.io/assets/img/";
-    // "https://gofeast.io/assets/img/photos/";
+    // "https://gofeast.io/assets/img/photos/gofeast_images/";
   const icons = {
     parking: {
       icon: iconBase + "favicon.png",

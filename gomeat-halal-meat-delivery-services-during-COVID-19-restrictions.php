@@ -58,7 +58,7 @@
           <div class="col-lg-10 mx-auto">
             <div class="blog single mt-n17">
               <div class="card">
-                <figure class="card-img-top"><img src="./assets/img/photos/blog/gofeast-high-demand.png" alt="" /></figure>
+                <figure class="card-img-top"><img src="./assets/img/photos/gofeast-high-demand.png" alt="" /></figure>
                 <div class="card-body">
                   <div class="classic-view">
                     <article class="post">
@@ -75,7 +75,7 @@
                         
                         <div class="row g-6 mt-3 mb-10">
                           <div class="col-md-12">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/blog-1-inner-img-1.webp" data-glightbox="title: Growth Trends; description: " data-gallery="post"> <img src="./assets/img/photos/blog/blog-1-inner-img-1.webp" alt="" /></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog-1-inner-img-1.webp" data-glightbox="title: Growth Trends; description: " data-gallery="post"> <img src="./assets/img/photos/blog-1-inner-img-1.webp" alt="" /></a></figure>
                           </div>
                         </div>
                         <strong>These numbers are clear evidence that the community and our business partners continue to believe in the GoFeast business model and value proposition.</strong>

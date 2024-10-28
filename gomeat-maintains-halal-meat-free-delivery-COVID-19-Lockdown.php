@@ -58,7 +58,7 @@
           <div class="col-lg-10 mx-auto">
             <div class="blog single mt-n17">
               <div class="card">
-                <figure class="card-img-top"><img src="./assets/img/photos/blog/gofeast-maintains.png" alt="" /></figure>
+                <figure class="card-img-top"><img src="./assets/img/photos/gofeast-maintains.png" alt="" /></figure>
                 <div class="card-body">
                   <div class="classic-view">
                     <article class="post">

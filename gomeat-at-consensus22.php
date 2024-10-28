@@ -58,7 +58,7 @@
           <div class="col-lg-10 mx-auto">
             <div class="blog single mt-n17">
               <div class="card">
-                <figure class="card-img-top"><img src="./assets/img/photos/blog/consensus-x-gomt.png" alt="" /></figure>
+                <figure class="card-img-top"><img src="./assets/img/photos/gofeast_images/consensus-x-gomt.png" alt="" /></figure>
                 <div class="card-body">
                   <div class="classic-view">
                     <article class="post">
@@ -71,10 +71,10 @@
                         <p style="text-align: justify;">GoFeast was also among blockchain focused projects participating in the event and was able to generate a significant amount of buzz because it is one of the only few blockchain companies with a real-life everyday use case, currently generating revenue. In addition to the large crowd and enthusiastic participants, we were also successful in attracting a large number of venture capitalists, investment fund managers, and institutions. Some of the largest exchanges in the world that were present at the event expressed their excitement with both the concept of GOMT, it's tokenomics, as well as its utility offerings.</p>
                         <div class="row g-6 mt-3 mb-10">
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/Consensus-frames10.jpeg" data-glightbox="title: GoFeast in 26 States; description: " data-gallery="post"> <img src="./assets/img/photos/blog/Consensus-frames10.jpeg" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/Consensus-frames10.jpeg" data-glightbox="title: GoFeast in 26 States; description: " data-gallery="post"> <img src="./assets/img/photos/Consensus-frames10.jpeg" alt=""></a></figure>
                           </div>
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/Consensus-frames12.jpeg" data-glightbox="title: 900+ stores on GoFeast platform; description: " data-gallery="post"> <img src="./assets/img/photos/blog/Consensus-frames12.jpeg" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/Consensus-frames12.jpeg" data-glightbox="title: 900+ stores on GoFeast platform; description: " data-gallery="post"> <img src="./assets/img/photos/Consensus-frames12.jpeg" alt=""></a></figure>
                           </div>
                         </div>
                         
@@ -82,10 +82,10 @@
                         
                         <div class="row g-6 mt-3 mb-10">
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/Consensus-frames4.jpeg" data-glightbox="title: Event Photo; description: " data-gallery="post"> <img src="./assets/img/photos/blog/Consensus-frames4.jpeg" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/Consensus-frames4.jpeg" data-glightbox="title: Event Photo; description: " data-gallery="post"> <img src="./assets/img/photos/Consensus-frames4.jpeg" alt=""></a></figure>
                           </div>
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/Consensus-frames13.jpeg" data-glightbox="title: Event Photo; description: " data-gallery="post"> <img src="./assets/img/photos/blog/Consensus-frames13.jpeg" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/Consensus-frames13.jpeg" data-glightbox="title: Event Photo; description: " data-gallery="post"> <img src="./assets/img/photos/Consensus-frames13.jpeg" alt=""></a></figure>
                           </div>
                         </div>
                         

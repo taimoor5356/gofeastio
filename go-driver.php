@@ -36,7 +36,7 @@
                             <div class="col-md-6">
                                 <div class="row">
                                     <div class="col-lg-12">
-                                        <figure class="rounded mb-6"><img src="./assets/img/photos/drivertop.png"
+                                        <figure class="rounded mb-6"><img src="./assets/img/photos/gofeast_images/drivertop.png"
                                                 alt=""></figure>
                                     </div>
                                     <!-- /column -->
@@ -69,7 +69,7 @@
                                 <div class="row">
                                     <div class="col-lg-12 order-md-2 ">
                                         <figure class="rounded mb-6 mb-md-0"><img
-                                                src="./assets/img/photos/driverbottom.png" alt=""></figure>
+                                                src="./assets/img/photos/gofeast_images/driverbottom.png" alt=""></figure>
                                     </div>
                                     <!-- /column -->
                                     <div class="col-lg-12">
@@ -215,7 +215,7 @@
                         </div>
                     </div>
                     <div class="col-lg-7">
-                        <figure><img class="w-auto" src="./assets/img/photos/driver-contact.png" alt="" /></figure>
+                        <figure><img class="w-auto" src="./assets/img/photos/gofeast_images/driver-contact.png" alt="" /></figure>
                     </div>
                 </div>
 

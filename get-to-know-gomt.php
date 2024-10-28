@@ -88,7 +88,7 @@ As a result of the new listing and other opportunities that are coming our way, 
                         
                         <div class="row g-6 mt-3 mb-10 d-flex justify-content-center">
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/bitmart-listing.jpeg" data-glightbox="title: GOMT Features; description: " data-gallery="post"> <img src="./assets/img/photos/blog/bitmart-listing.jpeg" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/gofeast_images/blog/bitmart-listing.jpeg" data-glightbox="title: GOMT Features; description: " data-gallery="post"> <img src="./assets/img/photos/gofeast_images/blog/bitmart-listing.jpeg" alt=""></a></figure>
                           </div>
                         </div>
                         

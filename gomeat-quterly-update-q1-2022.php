@@ -58,7 +58,7 @@
           <div class="col-lg-10 mx-auto">
             <div class="blog single mt-n17">
               <div class="card">
-                <figure class="card-img-top"><img src="./assets/img/photos/blog/q1-2022.png" alt="" /></figure>
+                <figure class="card-img-top"><img src="./assets/img/photos/q1-2022.png" alt="" /></figure>
                 <div class="card-body">
                   <div class="classic-view">
                     <article class="post">
@@ -72,10 +72,10 @@
                         <p style="text-align: justify;">Besides rising specialty meat prices, marketing and promotions is still one of our most significant challenges and we are working hard to find innovative ways to market and promote GoFeast and to spread the word out across communities and regions. With a continued push for rapid expansion to reach our goal of 2,000 stores on our platform, in parallel our efforts will be concentrated for a cost-effective marketing and promotion strategy.  </p>
                         <div class="row g-6 mt-3 mb-10">
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/26-states.jpeg" data-glightbox="title: GoFeast in 26 States; description: " data-gallery="post"> <img src="./assets/img/photos/blog/26-states.jpeg" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/26-states.jpeg" data-glightbox="title: GoFeast in 26 States; description: " data-gallery="post"> <img src="./assets/img/photos/26-states.jpeg" alt=""></a></figure>
                           </div>
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/900-stores.png" data-glightbox="title: 900+ stores on GoFeast platform; description: " data-gallery="post"> <img src="./assets/img/photos/blog/900-stores.png" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/900-stores.png" data-glightbox="title: 900+ stores on GoFeast platform; description: " data-gallery="post"> <img src="./assets/img/photos/900-stores.png" alt=""></a></figure>
                           </div>
                         </div>
                         
@@ -89,7 +89,7 @@
                         
                         <div class="row g-6 mt-3 mb-10 d-flex justify-content-center">
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/burned-table.png" data-glightbox="title: GOMT burned table; description: " data-gallery="post"> <img src="./assets/img/photos/blog/burned-table.png" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/burned-table.png" data-glightbox="title: GOMT burned table; description: " data-gallery="post"> <img src="./assets/img/photos/burned-table.png" alt=""></a></figure>
                           </div>
                         </div>
                         
@@ -100,10 +100,10 @@
                         
                         <div class="row g-6 mt-3 mb-10">
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/event-photo-1.png" data-glightbox="title: Event Photo; description: " data-gallery="post"> <img src="./assets/img/photos/blog/event-photo-1.png" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/event-photo-1.png" data-glightbox="title: Event Photo; description: " data-gallery="post"> <img src="./assets/img/photos/event-photo-1.png" alt=""></a></figure>
                           </div>
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/event-photo-2.png" data-glightbox="title: Event Photo; description: " data-gallery="post"> <img src="./assets/img/photos/blog/event-photo-2.png" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/event-photo-2.png" data-glightbox="title: Event Photo; description: " data-gallery="post"> <img src="./assets/img/photos/event-photo-2.png" alt=""></a></figure>
                           </div>
                         </div>
                         
@@ -116,7 +116,7 @@
                         <p style="text-align: justify;">Our objective for this event is to network and create our presence amongst other key industry and market giants such as Uber Eats and DoorDash, and present and promote our real life blockchain use case. We are proudly the only blockchain based on-demand ordering and delivery services operating in the United States.</p>
                         <div class="row g-6 mt-3 mb-10 d-flex justify-content-center">
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/food.jpeg" data-glightbox="title: Food On Demand; description: " data-gallery="post"> <img src="./assets/img/photos/blog/food.jpeg" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/food.jpeg" data-glightbox="title: Food On Demand; description: " data-gallery="post"> <img src="./assets/img/photos/food.jpeg" alt=""></a></figure>
                           </div>
                         </div>
                         
@@ -126,7 +126,7 @@
                         <p style="text-align: justify;">Our objective for this event is to network and create our presence amongst the blockchain and crypto giants and present and promote GoFeast real life blockchain use case and our GOMT token. We will be running several on venue promotions to encourage the download of our apps, adoption of GOMT token and to increase our growing community members. We are proudly one of the few blockchain ventures who are way beyond idea stage but are in revenue generating and actual execution phase.  </p>
                         <div class="row g-6 mt-3 mb-10 d-flex justify-content-center">
                           <div class="col-md-6">
-                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/consensus.jpeg" data-glightbox="title: Food On Demand; description: " data-gallery="post"> <img src="./assets/img/photos/blog/consensus.jpeg" alt=""></a></figure>
+                            <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/consensus.jpeg" data-glightbox="title: Food On Demand; description: " data-gallery="post"> <img src="./assets/img/photos/consensus.jpeg" alt=""></a></figure>
                           </div>
                         </div>
                         
@@ -141,7 +141,7 @@
                                 Our website <a href="https://gofeast.io" target="_blank">gofeast.io</a> has been revitalized and we have consolidated with a new look and feel. If you have not visited in a while, please do so and feel free to provide your valuable comments.
                                 <div class="row g-6 mt-3 mb-10 d-flex justify-content-center">
                                   <div class="col-md-6">
-                                    <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/Website.jpeg" data-glightbox="title: Food On Demand; description: " data-gallery="post"> <img src="./assets/img/photos/blog/Website.jpeg" alt=""></a></figure>
+                                    <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/Website.jpeg" data-glightbox="title: Food On Demand; description: " data-gallery="post"> <img src="./assets/img/photos/Website.jpeg" alt=""></a></figure>
                                   </div>
                                 </div>
                             </li>
@@ -149,10 +149,10 @@
                                 Meaty – The Staking BOT: GoFeast staking bot is now live to report Hydra staking rewards daily. The bot will post a complete report of the previous day in our Telegram community. You will be able to see blocks mined, Hydra staking reward, estimated cumulative Hydra staking reward and total GOMT equivalent in these reports.
                                 <div class="row g-6 mt-3 mb-10 d-flex justify-content-center">
                                   <div class="col-md-3">
-                                    <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/staking-bot.png" data-glightbox="title: Staking Bot; description: " data-gallery="post"> <img src="./assets/img/photos/blog/staking-bot.png" alt=""></a></figure>
+                                    <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/staking-bot.png" data-glightbox="title: Staking Bot; description: " data-gallery="post"> <img src="./assets/img/photos/staking-bot.png" alt=""></a></figure>
                                   </div>
                                   <div class="col-md-5">
-                                    <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/blog/staking-msg.png" data-glightbox="title: Staking Bot Message; description: " data-gallery="post"> <img src="./assets/img/photos/blog/staking-msg.png" alt=""></a></figure>
+                                    <figure class="hover-scale rounded cursor-dark"><a href="./assets/img/photos/staking-msg.png" data-glightbox="title: Staking Bot Message; description: " data-gallery="post"> <img src="./assets/img/photos/staking-msg.png" alt=""></a></figure>
                                   </div>
                                 </div>
                             </li>

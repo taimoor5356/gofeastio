@@ -38,14 +38,14 @@
             <div class="container py-10 py-md-10 ">
                 <div class="row">
                     <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mx-auto text-center">
-                        <img src="./assets/img/photos/consensus-x-gomt.png" width="100%" height="auto">
+                        <img src="./assets/img/photos/gofeast_images/consensus-x-gomt.png" width="100%" height="auto">
                     </div>
                     <!-- /column -->
                 </div>
                 <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center d-flex justify-content-center">
                     <div class="col-lg-6 order-lg-2 text-center" data-cues="bounceIn" data-duration="2000">
                         <!-- <figure> -->
-                        <img src="./assets/img/photos/consensus.png" width="100%" height="auto" alt="" loading="lazy">
+                        <img src="./assets/img/photos/gofeast_images/consensus.png" width="100%" height="auto" alt="" loading="lazy">
                         <!-- </figure> -->
                     </div>
                     <!--/column -->

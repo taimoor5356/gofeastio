@@ -78,7 +78,7 @@
                                 class="btn btn-circle btn-primary btn-play ripple mx-auto mb-6 position-absolute"
                                 style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;"
                                 data-glightbox><i class="icn-caret-right"></i></a>
-                            <figure class="rounded shadow-lg"><img src="./assets/img/photos/gomtvideobg.png" alt="">
+                            <figure class="rounded shadow-lg"><img src="./assets/img/photos/gofeast_images/gomtvideobg.png" alt="">
                             </figure>
                         </div>
                         <!-- /div -->
@@ -152,7 +152,7 @@
                                 <!-- <div class="icon btn btn-circle btn-lg btn-soft-primary disabled mb-4">
                                     <i class="uil uil-money-stack"></i>
                                 </div> -->
-                                <img src="./assets/img/photos/GOMT Icon.png" width="90" height="auto" class="mb-4">
+                                <img src="./assets/img/photos/gofeast_images/GOMT-Icon.png" width="90" height="auto" class="mb-4">
                                 <h3 class="text-white">5 Mil Total</h3>
                             </div>
                             <!--/column -->
@@ -160,7 +160,7 @@
                                 <!-- <div class="icon btn btn-circle btn-lg btn-soft-primary disabled mb-4">
                                     <i class="uil uil-user-plus"></i>
                                 </div> -->
-                                <img src="./assets/img/photos/deflationary.png" width="80" height="auto" class="mb-4">
+                                <img src="./assets/img/photos/gofeast_images/deflationary.png" width="80" height="auto" class="mb-4">
                                 <h3 class="text-white">Deflationary Economy</h3>
                                 <!-- <p>App Downloads</p> -->
                             </div>
@@ -169,7 +169,7 @@
                                 <!-- <div class="icon btn btn-circle btn-lg btn-soft-primary disabled mb-4">
                                     <i class="uil uil-shopping-cart"></i>
                                 </div> -->
-                                <img src="./assets/img/photos/realcase.png" width="70" height="auto" class="mb-4">
+                                <img src="./assets/img/photos/gofeast_images/realcase.png" width="70" height="auto" class="mb-4">
                                 <h3 class="text-white">Real Use-Case</h3>
                                 <!-- <p>Orders</p> -->
                             </div>
@@ -194,7 +194,7 @@
                         <div class="row  align-items-center">
                             <!--/column -->
                             <!-- <div class="col"> -->
-                            <img src="./assets/img/photos/distribution.png" alt="">
+                            <img src="./assets/img/photos/gofeast_images/distribution.png" alt="">
 
                             <!-- </div> -->
                             <!--/column -->
@@ -368,7 +368,7 @@
                         <div class="row  align-items-center">
                             <!--/column -->
                             <!-- <div class="col"> -->
-                            <img src="./assets/img/photos/funds.png" alt="">
+                            <img src="./assets/img/photos/gofeast_images/funds.png" alt="">
 
                             <!-- </div> -->
                             <!--/column -->
@@ -391,7 +391,7 @@
                 <h3 class="display-4 mb-7 mt-lg-10 text-primary">GoFeast Roadmap</h3>
                 <div class="row gx-lg-8 gx-xl-12 gy-12 align-items-center ">
 
-                    <img src="./assets/img/photos/roadmap.png" alt="">
+                    <img src="./assets/img/photos/gofeast_images/roadmap.png" alt="">
 
                 </div>
 

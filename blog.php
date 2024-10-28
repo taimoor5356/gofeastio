@@ -54,7 +54,7 @@
                                             <div class="post-header">
                                                 <div class="post-category text-line">
                                                     <a href="#" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -464,7 +464,7 @@
                                             <div class="post-header">
                                                 <div class="post-category text-line">
                                                     <a href="#" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -522,7 +522,7 @@
                                             <div class="post-header">
                                                 <div class="post-category text-line">
                                                     <a href="#" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -578,7 +578,7 @@
                                             <div class="post-header">
                                                 <div class="post-category text-line">
                                                     <a href="#" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -637,7 +637,7 @@
                                                 <div class="post-category text-line">
                                                     <a href="https://gofeasttoken.medium.com/gofeast-ico-a-summary-f56e3760d1f"
                                                         target="_blank" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -688,7 +688,7 @@
                                                 <div class="post-category text-line">
                                                     <a href="https://gofeasttoken.medium.com/ama-recap-gofeast-founders-78623279b456"
                                                         target="_blank" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -739,7 +739,7 @@
                                                 <div class="post-category text-line">
                                                     <a href="https://gofeasttoken.medium.com/diversity-the-key-to-a-successful-economy-797ca4134b4e"
                                                         target="_blank" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -792,7 +792,7 @@
                                                 <div class="post-category text-line">
                                                     <a href="https://gofeasttoken.medium.com/halal-kosher-verified-products-still-not-widely-accessible-72af4150c418"
                                                         target="_blank" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -845,7 +845,7 @@
                                                 <div class="post-category text-line">
                                                     <a href="https://gofeasttoken.medium.com/health-benefits-of-specialty-meat-why-are-people-opting-for-it-118fa3fbd2da"
                                                         target="_blank" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -897,7 +897,7 @@
                                                 <div class="post-category text-line">
                                                     <a href="https://gofeasttoken.medium.com/uplifting-specialty-stores-in-the-era-of-inclusivity-and-diversity-the-need-eab739af64ff"
                                                         target="_blank" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
@@ -949,7 +949,7 @@
                                                 <div class="post-category text-line">
                                                     <a href="https://gofeasttoken.medium.com/the-consequences-of-an-untraceable-meat-supply-chain-covid-19-and-more-4260cfc04c4"
                                                         target="_blank" class="me-2">Medium <img
-                                                            src="./assets/img/photos/medium.png" width="40"
+                                                            src="./assets/img/photos/gofeast_images/medium.png" width="40"
                                                             height="auto"></a>
                                                 </div>
                                                 <!-- /.post-category -->
