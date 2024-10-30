@@ -49,7 +49,7 @@
                         <br>
                         <div class="d-flex flex-row mb-2 mt-2 justify-content-lg-start">
                             <div class="flex-column me-4 ">
-                                <a href="./assets/docs/How to buy GOMT on Hydra DEX.pdf" class="link-white hover"
+                                <a href="./assets/docs/HowtobuyGOMTonHydraDEX.pdf" class="link-white hover"
                                     target="_blank">
                                     <i class="uil uil-file-question"></i>
                                     How to Buy?
@@ -98,7 +98,7 @@
                     <div class="col-xl-10 mx-auto">
                         <div class="row align-items-center counter-wrapper gy-6 text-center">
                             <div class="col-md-3">
-                                <a href="./assets/docs/GoFeast Token White Paper.pdf" target="_blank"
+                                <a href="./assets/docs/GoFeastTokenWhitePaper.pdf" target="_blank"
                                     class="btn btn-outline-primary rounded "><i class="uil uil-file-alt"></i>White
                                     Paper</a>
                                     
@@ -108,13 +108,13 @@
                             </div>
                             <!--/column -->
                             <div class="col-md-3">
-                                <a href="./assets/docs/GoFeast Token One Pager.pdf" target="_blank"
+                                <a href="./assets/docs/GoFeastTokenOnePager.pdf" target="_blank"
                                     class="btn btn-outline-primary rounded"><i class="uil uil-file-alt"></i>
                                     One Pager</a>
                             </div>
                             <!--/column -->
                             <div class="col-md-3">
-                                <a href="./assets/docs/GoFeast Token Audit Report.pdf" target="_blank"
+                                <a href="./assets/docs/GoFeastTokenAuditReport.pdf" target="_blank"
                                     class="btn btn-outline-primary rounded"><i class="uil uil-file-alt"></i>
                                     Audit Report</a>
                             </div>
