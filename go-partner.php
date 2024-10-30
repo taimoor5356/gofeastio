@@ -164,7 +164,7 @@
                             </div>
                             <div>
                                 <h4 class="mb-1 text-primary">Order Placement</h4>
-                                <p class="mb-0">Customers place a detailed order for your store through our <a href="https://play.google.com/store/apps/details?id=com.gofeast.app" target="_blank">Android</a> and <a href="https://apps.apple.com/us/app/gofeast/id1441921154" target="_blank">iOS</a> customer apps
+                                <p class="mb-0">Customers place a detailed order for your store through our <a href="https://play.google.com/store/apps/details?id=com.gomeat.app" target="_blank">Android</a> and <a href="https://apps.apple.com/us/app/gofeast/id1441921154" target="_blank">iOS</a> customer apps
                                 </p>
                             </div>
                         </div>
