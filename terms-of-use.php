@@ -49,7 +49,7 @@
                         </p>
                         
                         <p style="text-align:justify;">
-                            GoFeast Services Inc. and its subsidiaries and affiliates (“GoFeast,” “we,” “our,” or “us”) own and
+                            GoMeat Services Inc. and its subsidiaries and affiliates (“GoFeast,” “we,” “our,” or “us”) own and
                             operate certain websites (including gofeast.io, meat2deliver.com, gohalalmeat.com,
                             gokoshermeat.com), certain technology platforms, and certain other related online and mobile
                             services (including, without limitation, our Mobile Applications, as defined below) that reference
@@ -723,7 +723,7 @@
                             Please send this notification to our copyright agent at:
                             <br>
                             <strong>
-                                GoFeast Services Inc,
+                                GoMeat Services Inc,
                                 <br>
                                 Address: 9237 Washington Road,
                                 <br>

@@ -444,7 +444,7 @@
                                 <a href="mailto:info@gofeast.io">info@gofeast.io</a>, or write to the following address:</p>
                             </li>
                         </ol>
-                        <h4 class="h4 mb-4">GoFeast Services Inc,
+                        <h4 class="h4 mb-4">GoMeat Services Inc,
                         <br>Address: 9237 Washington Road,
                         <br>Morton Grove, IL 60053 – USA
                         </h4>

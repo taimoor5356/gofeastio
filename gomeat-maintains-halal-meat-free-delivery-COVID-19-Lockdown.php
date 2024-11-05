@@ -79,7 +79,7 @@
                           <footer class="blockquote-footer">Waqas Siddiqi (CO-FOUNDER & CEO GoFeast)</footer>
                         </blockquote>
                         
-                        <p>All the GoFeast Services founders believe in and support their communities. The company has maintained active participation in sponsoring a wide range of community events.</p>
+                        <p>All the GoFeast founders believe in and support their communities. The company has maintained active participation in sponsoring a wide range of community events.</p>
                         
                         <p>The GoFeast website <a href="./go-partner" target="_blank">HERE</a> explains more about how retailers can get involved.</p>
                         <p class="text-line">end of release</p>

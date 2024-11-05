@@ -32,7 +32,7 @@
 
                 <div class="row">
                     <div class="col-lg-6 mb-0">
-                        <h3 class="display-4 mb-3 text-center text-primary">GoFeast Services</h3>
+                        <h3 class="display-4 mb-3 text-center text-primary">GoFeast</h3>
 
                         <ul class="nav nav-tabs nav-pills">
                             <li class="nav-item">

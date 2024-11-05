@@ -285,7 +285,7 @@
                             </div> -->
                             <div>
                                 <!-- <h5 class="mb-1">Address</h5> -->
-                                <p class="mb-0">Read GoFeast Services <a href="./terms">Terms and Conditions</a> and
+                                <p class="mb-0">Read GoFeast <a href="./terms">Terms and Conditions</a> and
                                     acknowledge you have read the <a
                                         href="./privacy-policy"
                                         target="_blank">Privacy

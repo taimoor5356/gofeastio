@@ -127,7 +127,7 @@
                         <h3 class="display-4 mb-3 text-primary">Our Business Model</h3>
                         <p class="lead fs-lg lh-sm" style="text-align: justify;">Our Business Model is one of the simplest in the Tech industry
                             offering steady and consistent revenue streams with no cash collection risks and high cash
-                            flows. GoFeast Services is a Logistics Technology Startup and not a meat seller. We are
+                            flows. GoFeast is a Logistics Technology Startup and not a meat seller. We are
                             providing a technology marketplace for the buying and selling of specialty (halal and
                             kosher) meat along with in-app specialty certifications.</p>
                         <!--/.row -->

@@ -107,7 +107,7 @@
                         <!-- <p class="lead fs-lg lh-sm">The full service we are offering is specifically designed to meet
                             your business needs.</p> -->
                         <p style="text-align: justify;">I agree to have read the Terms and Conditions listed in the Delivery Partner Agreement, and
-                            that I may receive emails or calls from GoFeast Services for any additional information which
+                            that I may receive emails or calls from GoFeast for any additional information which
                             may be needed. </p>
 
                         <!-- <a href="#" class="btn btn-primary rounded-pill mt-3">Registration Form</a>
