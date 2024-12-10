@@ -43,6 +43,20 @@
                                             <br>Suite 209 A, Commercial Sector C, Bahria Town Lahore
                                         </h4>
                                         <p style="text-align:justify;">Please note that email communications will not necessarily be secure; accordingly, please do not include credit card information and/or other sensitive Personal Information in your email correspondence with us. </p>
+                                        
+                                    </div>
+                                    <div class="row">
+                                        <div class="container">
+                                        <h5>How to Permanently Delete Your GoFeast Account:</h5>
+                                        <p>1. Open the GoFeast app.</p>
+                                        <p>2. Tap the three horizontal bars (menu icon) in the top left corner.</p>
+                                        <p>3. Select Profile from the menu to open your profile.</p>
+                                        <p>4. Scroll down and click Delete Account.</p>
+                                        <p>5. A pop-up will appear asking for confirmation. Tap Yes to permanently delete your account.</p>
+                                        <p>Alternatively user can use this link to delete their account by entering account phone number and account password.
+                                        link: <a href="https://dashboard.gomeat.io/delete-user-account">https://dashboard.gomeat.io/delete-user-account</a></p>
+                                        <p>Important: By clicking "Yes," your account and all associated information will be permanently deleted and cannot be recovered.</p>
+                                        </div>
                                     </div>
                                     <!-- /.post-content -->
 
