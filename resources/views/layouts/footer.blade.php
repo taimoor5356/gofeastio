@@ -70,8 +70,8 @@
                     <div class="widget">
                         <h4 class="widget-title text-white   mb-3">Links</h4>
                         <ul class="list-unstyled text-reset mb-0">
-                            <li><a href="{{asset('assets/docs/GoFeastTokenWhitePaper.pdf')}}" target="_blank">White Paper</a>
-                            </li>
+                            <!-- <li><a href="{{asset('assets/docs/GoFeastTokenWhitePaper.pdf')}}" target="_blank">White Paper</a>
+                            </li> -->
                             <!--<li><a href="./coming-soon" >White Paper</a>-->
                             <!--</li>-->
                             <li><a href="{{asset('assets/docs/GoFeastTokenOnePager.pdf')}}" target="_blank">One Pager</a>

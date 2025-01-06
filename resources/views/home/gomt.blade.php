@@ -111,9 +111,9 @@
             <div class="col-xl-10 mx-auto">
                 <div class="row align-items-center counter-wrapper gy-6 text-center">
                     <div class="col-md-3">
-                        <a href="{{asset('assets/docs/GoFeastTokenWhitePaper.pdf')}}" target="_blank"
+                        <!-- <a href="{{asset('assets/docs/GoFeastTokenWhitePaper.pdf')}}" target="_blank"
                             class="btn btn-outline-primary rounded "><i class="uil uil-file-alt"></i>White
-                            Paper</a>
+                            Paper</a> -->
 
                         <!--<a href="./coming-soon" -->
                         <!--class="btn btn-outline-primary rounded "><i class="uil uil-file-alt"></i>White-->
